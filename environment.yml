@@ -9,6 +9,7 @@ dependencies:
     - pandas
     - matplotlib
     - seaborn
+    - sklearn
     - bs4
 
 
