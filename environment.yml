@@ -4,9 +4,9 @@ channels:
 dependencies:
   - python
   - numpy
+  - math
   - pip
   - pip:
-    - math
     - pandas
     - matplotlib
     - seaborn
